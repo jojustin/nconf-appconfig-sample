@@ -1,0 +1,28 @@
+{
+  "name": "shoppers-delight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saikumar1607/shoppers-delight"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-wait-until": "^2.0.12",
+    "bunyan": "*",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "ibm-appconfiguration-node-sdk": "latest",
+    "nconf": "*",
+    "nconf-appconfig": "*",
+    "request": "*"
+  }
+}
